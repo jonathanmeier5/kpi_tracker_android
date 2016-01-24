@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KPI Tracker</string>
+
+    <string name="base_title">Locations</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_location">AddLocationActivity</string>
+
+    <string name="tmp">Add Location Activity</string>
+
+    <string name="title_activity_detail">Location Details</string>
+
+    <string name="location_name_header">Name</string>
+    <string name="location_address_header">Address</string>
+    <string name="location_zip_code_header">Zip Code</string>
+    <string name="location_notes_header">Notes</string>
+</resources>
